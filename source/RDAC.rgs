@@ -1,0 +1,12 @@
+HKCR
+{
+	AppID
+	{
+		'RDAC.EXE'
+		{
+			val AppID = s '{01D73C58-D8F4-4A85-B27D-424443739977}'
+			val LocalService = s 'RDAC'
+            val ServiceParameters = s '-Service'
+		}
+	}
+}
